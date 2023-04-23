@@ -472,26 +472,4 @@ By performing model extraction attack, may be one can construct training data fr
 
 [https://github.com/tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted)
 
-# Deep Homomorphic Encryption
 
-[https://github.com/mathLab/PINA](https://github.com/mathLab/PINA)
-
-https://github.com/lezcano/geotorch
-
-[https://github.com/levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs)
-
-I think DMD is the main bet
-
-..Manifold learning
-
-…SINDy…maybe can be used to include polynomials into the linear approximant)
-
-….. Koopman Operator based Approximation ([https://www.youtube.com/watch?v=JJaxltAN9Ug&t=1s](https://www.youtube.com/watch?v=JJaxltAN9Ug&t=1s), [https://www.youtube.com/watch?v=dx2f4exDZnU](https://www.youtube.com/watch?v=dx2f4exDZnU))
-
-[https://databookuw.com/page-3/page-10/](https://databookuw.com/page-3/page-10/)
-
-[https://github.com/hanyoseob/matlab-koopman](https://github.com/hanyoseob/matlab-koopman)
-
-[https://github.com/BethanyL/DeepKoopman](https://github.com/BethanyL/DeepKoopman)
-
-[https://www.nature.com/articles/s42256-021-00302-5](https://www.nature.com/articles/s42256-021-00302-5)
